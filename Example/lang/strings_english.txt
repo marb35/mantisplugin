@@ -1,0 +1,7 @@
+<?php
+
+$s_plugin_Example_configuration = "Configuration";
+$s_plugin_Example_foo_or_bar = "Foo or Bar?";
+$s_plugin_Example_reset = "Reset Value";
+$s_plugin_Example_autorespuesta="Thank you for contacting ProcessMaker Support, soon a support specialist will contact you.";
+$s_plugin_Example_autorespuesta2="Hello ";

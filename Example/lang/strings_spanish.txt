@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @author Marco Ramirez
+ * @copyright 2013
+ */
+$s_plugin_Example_configuration = "Configuracion";
+$s_plugin_Example_foo_or_bar = "Foo o Bar?";
+$s_plugin_Example_reset = "Resetear Valor";
+$s_plugin_Example_autorespuesta="
+Gracias por contactarse con ProcessMaker Support, en breve un especialista de soporte se comunicar&aacute; con usted
+<br/>
+";
+$s_plugin_Example_autorespuesta2="Hola ";
